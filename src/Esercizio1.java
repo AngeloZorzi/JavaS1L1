@@ -13,5 +13,5 @@ public class Esercizio1 {
     public static String concatenare (String testo, int numero){
         return testo + numero;
     }
-    
+
 }
